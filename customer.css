@@ -1,0 +1,22 @@
+.navbar-nav{
+  font-family:'Oxygen',sans-serif;
+  text-decoration:white;
+  font-weight: bold;
+}
+#nav-bar
+{
+	background-color:#c5d7bd;
+	position:static;
+	top:0;
+	z-index:10;
+}
+.nav-link:hover {
+	background-image: url('C:\Users\hp\Desktop\banking-system-main\IMG_15022021_130857_(1600_x_600_pixel) (2).jpg');
+}
+.nav-link {
+	font-family:'Oxygen',sans-serif;
+}
+a{
+	color:white;
+}
+
